@@ -1,6 +1,12 @@
-<img align="center" src="http://scopostudio.com/src/img/nicolascgarcia.png" />
 
 # Wecome to my profile! 👋
+<img align="center" src="http://scopostudio.com/src/img/nicolascgarcia.png" />
+
+My name is Nicolas Garcia and I am a software engineer from Brazil working at <a target="blank" href="https://www.kazap.com.br/">Kazap Technologies</a>.
+
+socials here
+
+## GitHub Stats and Techs
 <a href="https://github.com/nicolascgarcia&show_icons=true/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolascgarcia&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </a>
@@ -8,6 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascgarcia&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=Starlark,Hack" />
 </a>
 
+## Main Repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true" />
 </a>
