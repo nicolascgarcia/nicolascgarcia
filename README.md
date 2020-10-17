@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img align="center" src="http://scopostudio.com/src/img/nicolascgarcia.png" />
 
 <a href="https://github.com/nicolascgarcia&show_icons=true/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolascgarcia&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
