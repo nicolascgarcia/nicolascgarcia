@@ -2,7 +2,7 @@
 # Wecome to my profile! 👋
 <img align="center" src="http://scopostudio.com/src/img/nicolascgarcia.png" />
 
-My name is Nicolas Garcia and I am a software engineer from Brazil working at <a target="blank" href="https://www.kazap.com.br/">Kazap Technologies</a>.
+My name is Nicolas Garcia and I am a software engineer from Brazil working at <a target="blank" href="https://irestify.com">Irestify</a>.
 
 ## GitHub Stats
 <a href="https://github.com/nicolascgarcia&show_icons=true/github-readme-stats">
